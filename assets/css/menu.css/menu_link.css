@@ -1,0 +1,22 @@
+.menu_link {
+    color: #808080;
+    margin-right: 13.75rem;
+    text-decoration: none;
+    text-transform: capitalize; 
+    font-family:Pacifico, cursive;
+    font-size: 1.5rem;
+    display: inline-block;
+     
+
+
+}
+
+.menu_link.ativo {
+    color: #333333;
+    font-weight: bold;
+}
+
+.menu_link:hover{
+    text-decoration: underline;
+
+}

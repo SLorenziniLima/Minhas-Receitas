@@ -1,0 +1,16 @@
+.sobre_titulo{
+    font-family:Pacifico, cursive;
+    font-size: 3rem;
+    text-align: center;
+    color: rgb(13, 13, 78);
+    text-shadow: 0 4px 4px rgba(0, 0, 0, .5);
+
+}
+
+.sobre_descricao{
+    font-family:Pacifico, cursive;
+    font-size: 1.5rem;
+    text-align: center;
+    color:rgb(89, 89, 114);
+
+}
